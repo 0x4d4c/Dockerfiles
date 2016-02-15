@@ -1,2 +1,6 @@
+services:
+  - docker
+
 script:
   - docker build -t 0x4d4c/bro ./bro
+
