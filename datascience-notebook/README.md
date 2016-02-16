@@ -8,6 +8,7 @@ Extends the [Jupyter Notebook Data Science Stack](https://github.com/jupyter/doc
  - [NetworkX](https://networkx.github.io/)
  - [Requests](http://docs.python-requests.org/en/master/)
  - [tld](https://pypi.python.org/pypi/tld)
+
 #### Notebook extensions
  - [Calico Cell Tools](https://github.com/Calysto/notebook-extensions)
  - [Calico Document Tools](https://github.com/Calysto/notebook-extensions)
