@@ -3,4 +3,5 @@ services:
 
 script:
   - docker build -t 0x4d4c/bro ./bro
+  - docker build -t 0x4d4c/datascience-notebook ./datascience-notebook
 
